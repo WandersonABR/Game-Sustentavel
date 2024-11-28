@@ -25,7 +25,7 @@ Este projeto utiliza **MediaPipe**, **OpenCV** e **pygame** para criar um jogo i
 
 ## Pré-requisitos
 
-- Python 3.8 ou superior
+- Python 3.8 até a versão 3.10
 - Bibliotecas necessárias:
   ```bash
   pip install opencv-python mediapipe pygame numpy
